@@ -142,11 +142,11 @@
                   <div class="card-body">
                     <h6 class="d-flex align-items-center mb-3">Pendidikan</h6>
                     <div class="center mb-3">
-                    <div class="col-sm-6">
+                      <h6>SMA</h6>
+                      <small>Backend API</small>
                       <h6>SMA</h6>
                       <small>Backend API</small>
                     </div>
-                  </div>
                   </div>
                 </div>
               </div>
@@ -173,7 +173,7 @@ export default {
 .hero {
   text-align: center;
   padding: 100px 0;
-  background: #f5f5f5;
+  background: linear-gradient(135deg, #f6d365 0%, #fda085 100%)
 }
 
 .header {

@@ -1,7 +1,7 @@
 <template>
   <section class="contact">
     <h2>Contact Me</h2>
-    <p>Email: your-email@example.com</p>
+    <p>Email: Habibburrohman@gmail.com</p>
   </section>
 </template>
 
